@@ -1,0 +1,19 @@
+image: 
+key_name: 
+aws_access_key: 
+aws_secret_key:  
+wait: yes
+group: kubeawsadm1 
+count: 1
+instance_type: t2.micro
+vpc_subnet_id:  
+assign_public_ip: yes
+region: 
+pwddock: 
+HOME: 
+m1: "{{ m1 }}"
+m5: "{{ m5 }}"
+q2: "results[].instances[].private_dns_name"
+q3: "{{ q3 }}"
+d22: "{{ d22 }}"
+rc3: "{{ rc3 }}"
