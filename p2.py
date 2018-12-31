@@ -43,8 +43,6 @@ class EC(object):
 #  temp5=boto.ec2.address.Address(**kw_params)
 #  temp2 = boto.ec2.connect_to_aws(ec2,region_name)
 #  temp1=boto.ec2.connect_to_region(region_name, **connect_args)
-#  connect_args[0] = 'AKIAJVMO3KS7LSCUTQTA' 
-#  connect_args[1] = '5vVcirtGdh8DpWarWG84wr6KK8THQ3M40I1c6sdQ'
 #  print(temp1) 
   print(temp92)
 #  print(temp931)
